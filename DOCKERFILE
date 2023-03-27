@@ -1,3 +1,4 @@
+From Test
 FROM ubuntu
 EXPOSE 8080
 CMD["java","-jar","test.jar"]
